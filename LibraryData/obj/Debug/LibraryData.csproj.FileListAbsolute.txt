@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\Public_Utilities\LibraryData\bin\Debug\LibraryData.dll.config
+c:\users\user\documents\visual studio 2013\Projects\Public_Utilities\LibraryData\bin\Debug\LibraryData.dll
+c:\users\user\documents\visual studio 2013\Projects\Public_Utilities\LibraryData\bin\Debug\LibraryData.pdb
+c:\users\user\documents\visual studio 2013\Projects\Public_Utilities\LibraryData\obj\Debug\LibraryData.dll
+c:\users\user\documents\visual studio 2013\Projects\Public_Utilities\LibraryData\obj\Debug\LibraryData.pdb
+C:\Users\user\documents\visual studio 2013\Projects\Public_Utilities\LibraryData\obj\Debug\LibraryData.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2013\Projects\Public_Utilities\LibraryData\bin\Debug\LibraryData.dll.config
+D:\Projects\Visual Studio 2013\Projects\Public_Utilities\LibraryData\bin\Debug\LibraryData.dll
+D:\Projects\Visual Studio 2013\Projects\Public_Utilities\LibraryData\bin\Debug\LibraryData.pdb
+D:\Projects\Visual Studio 2013\Projects\Public_Utilities\LibraryData\obj\Debug\LibraryData.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio 2013\Projects\Public_Utilities\LibraryData\obj\Debug\LibraryData.dll
+D:\Projects\Visual Studio 2013\Projects\Public_Utilities\LibraryData\obj\Debug\LibraryData.pdb
